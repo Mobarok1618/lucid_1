@@ -1,0 +1,57 @@
+@media(max-width: 575px){
+    .header_phn{
+        display: none;
+    }
+    .height{
+        text-align: center;
+    }
+    .navber-nav{
+        text-align: center;
+    }
+    .nav-item{
+        margin: auto;
+    }
+
+    .device_section{
+        text-align: center;
+    }
+    .device_feature {
+        text-align: center;
+    }
+    .device_feature span {
+        margin: auto;
+        padding-bottom: 5px;
+    }
+    .device_feature .mini_icon{
+        width: 30%;
+        margin: auto;
+    }
+    .device_feature .mini_icon p{
+        text-align: start;
+        padding: 4px 0;
+    }
+    .feature_customize{
+        text-align: center;
+    }
+    .feature_customize span {
+        margin: auto;
+    }
+   
+    .feature_content{
+        padding: 15px 0;
+    }
+    .form{
+        width: 65%;
+    }
+    .contact_section{
+        padding-bottom: 500px;
+    }
+    
+    .footer_icon{
+        width: 50%;
+        margin: auto;
+        
+
+    }
+
+}
